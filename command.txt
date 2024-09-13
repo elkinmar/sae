@@ -15,3 +15,5 @@ git branch zzzz    to create a new branch
 
 git checkout -b ssssssssss    to create and switch to new brancn zzzzzz
 
+git pull
+
