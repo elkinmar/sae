@@ -1,0 +1,17 @@
+git init
+git add
+git commit -m "xxxxxxxxxxxx"
+git rm --cached <file>   to unstage
+
+To connecct to remote repository
+
+git remote add origin https://github.com/xxxxxxxxx
+
+git remote set-url origin https://elkinmar@github.com/xxxxxxxx
+
+git push origin main or the name of the branch
+
+git branch zzzz    to create a new branch
+
+git checkout -b ssssssssss    to create and switch to new brancn zzzzzz
+
